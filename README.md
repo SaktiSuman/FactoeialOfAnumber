@@ -1,1 +1,1 @@
-# FactoeialOfAnumber
+# FactorialOfAnumber
